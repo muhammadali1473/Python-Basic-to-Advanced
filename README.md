@@ -33,8 +33,8 @@ cd Python-Basic-to-Advanced
 python filename.py✨ Author
 
 👤 Muhammad Ali
-📧 your_github_email
-🔗 GitHub Profile
+📧 get.muhammad5@gmail.com
+🔗 https://github.com/muhammadali1473/Python-Basic-to-Advanced.git
 
 
 ---
