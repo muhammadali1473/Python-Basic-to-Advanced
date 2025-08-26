@@ -21,3 +21,29 @@ It is designed for beginners who want to learn Python step by step.
 ---
 
 ## 📂 Project Structure
+
+---
+
+## 💻 How to Run
+Clone this repo and run Python files:
+
+```bash
+git clone https://github.com/muhammadali1473/Python-Basic-to-Advanced.git
+cd Python-Basic-to-Advanced
+python filename.py✨ Author
+
+👤 Muhammad Ali
+📧 your_github_email
+🔗 GitHub Profile
+
+
+---
+
+### 🔹 Step 3: Add & Push README  
+Run these commands in Git Bash:
+
+```bash
+git add README.md
+git commit -m "Add README.md with project details"
+git push -u origin main
+
